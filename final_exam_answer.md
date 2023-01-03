@@ -56,8 +56,8 @@ a=300, b=1, s=hello
 **4**
 
 ```
-C:User\a\b\..\c\.\..\d.md
-C:User\a\d.md
+C:\User\a\b\..\c\.\..\d.md
+C:\User\a\d.md
 ```
 
 
