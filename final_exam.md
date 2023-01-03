@@ -14,7 +14,7 @@ D 控制线程同步
 
 
 
-**2、 ** 下面哪一个不是 `FilterInputStream` 的子类？
+**2、** 下面哪一个不是 `FilterInputStream` 的子类？
 
 A DigestInputStream
 
@@ -98,7 +98,7 @@ D PC Register
 
 
 
-**9、 ** 服务器端的 `ServerSocket` 使用哪个方法来接收客户端的连接？
+**9、** 服务器端的 `ServerSocket` 使用哪个方法来接收客户端的连接？
 
 A bind
 
